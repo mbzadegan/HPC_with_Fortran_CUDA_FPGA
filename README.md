@@ -48,7 +48,7 @@ docs/                # Project documentation
   ├─ design.md
   └─ report.md (convertible to PDF)
 
-(TBC) results/             # Collected data + figures
+(Under Working) results/             # Collected data + figures
   ├─ results.csv
   ├─ throughput_vs_size.png
   └─ error_vs_throughput.png
