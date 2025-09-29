@@ -122,4 +122,4 @@ Generates:
 
 ## License
 
-MIT License (to be added if desired).
+MIT License.
