@@ -6,7 +6,7 @@ This project implements the **2D Jacobi iterative solver** — a classic stencil
 - **CUDA (GPU, fp64 / fp32 / fp16)**
 - **FPGA (High-Level Synthesis, estimated throughput)**
 
-The goal is to study **mixed precision trade-offs** in performance and accuracy across heterogeneous architectures, reflecting modern HPC research challenges.
+The goal is to study **mixed-precision trade-offs** in performance and accuracy across heterogeneous architectures, reflecting the modern challenges of HPC research.
 
 ---
 
