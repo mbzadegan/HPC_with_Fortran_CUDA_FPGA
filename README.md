@@ -115,7 +115,7 @@ Generates:
 
 - Add CUDA fp16 kernels (with tensor cores where available)  
 - Add FPGA HLS synthesis + cosim results  
-- Compare portability across Linux vs BSD (CPU baseline)  
+- Compare portability across Linux vs DragonflyBSD (CPU baseline)  
 - Extend to multi-GPU and hybrid CPU–GPU–FPGA workflows  
 
 ---
