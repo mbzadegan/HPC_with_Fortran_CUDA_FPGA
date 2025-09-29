@@ -119,8 +119,4 @@ Generates:
 - Compare portability across Linux vs DragonflyBSD (CPU baseline)  
 - Extend to multi-GPU and hybrid CPU–GPU–FPGA workflows  
 
----
 
-## License
-
-MIT License.
