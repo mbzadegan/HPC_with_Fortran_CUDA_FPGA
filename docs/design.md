@@ -84,7 +84,7 @@ This stencil is **memory-bound**, making it a canonical benchmark for heterogene
 
 ## 6. Future Extensions
 
-- Real FPGA hardware evaluation (board or AWS F1)
+- Real FPGA hardware evaluation (board or AWS F1).
 - DragonFlyBSD vs Linux system study (CPU portability)
 - Mixed-precision auto-tuning (adaptive precision selection)
 - Multi-GPU scaling or MPI + CUDA + FPGA hybrid orchestration
