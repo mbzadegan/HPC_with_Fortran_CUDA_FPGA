@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-bench.py — run Jacobi binaries and collect CSV results.
+bench.py — run Jacobi binaries and collect CSV results
 
 This script expects each executable to print ONE CSV line:
 backend,precision,N,M,iters,runtime_ms,MLUPS,rel_error
