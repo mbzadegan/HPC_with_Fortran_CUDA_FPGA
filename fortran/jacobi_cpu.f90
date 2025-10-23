@@ -1,4 +1,4 @@
-! Simple 2D Jacobi (5-point) with OpenMP
+! Simple 2D Jacobi (5-point) with OpenMP.
 ! Usage:
 !   ./jacobi_cpu N M ITERS PREC
 ! where:
