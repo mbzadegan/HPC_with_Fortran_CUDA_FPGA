@@ -7,7 +7,7 @@
 !   PREC  : f64 or f32
 !
 ! Output (single CSV line to stdout):
-!   backend,precision,N,M,iters,runtime_ms,MLUPS,rel_error
+!   backend, precision, N ,M, iters,runtime_ms, MLUPS,rel_error
 ! For rel_error, this CPU code prints 0.0 (treat as reference).
 
 program jacobi_cpu
