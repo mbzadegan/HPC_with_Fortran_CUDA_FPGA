@@ -2,8 +2,8 @@
 ! Usage:
 !   ./jacobi_cpu N M ITERS PREC
 ! where:
-!   N,M   : grid size (integers, e.g., 1024 1024)
-!   ITERS : number of iterations (e.g., 500)
+!   N, M : grid size (integers, e.g., 1024 1024)
+!   ITERS: number of iterations (e.g., 500)
 !   PREC  : f64 or f32
 !
 ! Output (single CSV line to stdout):
