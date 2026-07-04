@@ -20,7 +20,7 @@ void jacobi2d_hls(const float *in, float *out, int N, int M) {
 #pragma HLS INTERFACE s_axilite port=M    bundle=control
 #pragma HLS INTERFACE s_axilite port=return bundle=control
 
-    // Process row by row; pipeline the inner j loop.
+    // Processing row by row; pipeline the inner j loop.
 Row_Loop:
     for (int i = 0; i < N; i++) {
     Col_Loop:
